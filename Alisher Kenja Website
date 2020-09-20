@@ -1,0 +1,274 @@
+<div class="mainDetails">
+
+
+	<div id="name">
+		<h1>Alisher Kenja</h1>
+		<h2>My Profile</h2>
+	</div>
+
+
+	<div id="contactDetails">
+		<ul>
+			<li>Student Number: s3873177</li>
+			<li>Email: S3873177@student.rmit.edu.au
+			<li>Website: <a href="http://www.github.com" target="_blank">www.github.com</a></li>
+			<li>Message: +61 0400 755 911</li>
+		</ul>
+	</div>
+
+
+	<div id="Photo OfMe">
+		<img src="https://cdn.discordapp.com/attachments/757170389246803991/757170521111527505/20200920_160945.jpg">
+
+	</div>
+	
+
+</div class="mainDetails">
+
+
+
+
+
+<div id="mainArea">
+
+
+		<style>
+		img {
+		  width: 90%;
+		}
+		</style>
+
+
+	<div id="Ideal Job">
+		<img src="https://cdn.discordapp.com/attachments/757170389246803991/757171326786994218/20200920_Job.png"/>
+	</div>
+
+
+		<div class="sectionTitle">
+			<h2>Personal Information</h2>
+		</div>
+		
+
+			<div class="sectionContent">
+				<article>
+					<p> Hello, my name is Alisher Kenja, 3873177, S3873177@student.rmit.edu.au. I am a Year 10 student, my nationality is Uzbek and I love playing games, drawing and riding my bike. I take my bike to Wylde MTB Trail and I love partaking in school activities</p>
+				</article>
+			</div class="sectionContent">
+	
+	</section>
+
+</div id ="mainArea">
+
+
+
+
+
+<div id="mainArea">
+
+	<section>
+
+		<div class="sectionTitle">
+			<h2>Intrest In IT</h2>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						I think my interest in IT peaked with my IST teacher (Information and Software Technology Class), he is by far my favorite teacher and he is a close family friend too, he taught me everything I know about coding, making games, building websites, Graphical technology (Using AutoCad, Fusion360, Adobe) and even about this course so I like to think of him as family and I am very lucky to have him. I felt that he was the one to spark my interest in IT.
+					</p>
+					<p>
+						I chose to enter this course in RMIT because I enjoy these things, I believe that I can make this a hobby and a job while loving every part of it. I believe that technology has many advantages and it can help people like me get a headstart and do something I enjoy while making time to do other things and make a living. RMIT will help me get that head start and will help me pave the way to implementing what I like and do best into my future, It will help me as it has active teachers, and well founded resources, and I believe it has extensive questions and responses to help solve any inquiries.
+					</p>
+					<p>
+						In my studies during this course i expect to learn what IT is and how to apply that knowledge in the real world my making either a game or a product with the help of my teacher, I expect t learn how to work collaboratively, effectively and creatively learning about my peers and teacher while learning about technological innovations.
+					</p>
+				</article>
+			</div class="sectionContent">
+
+	</section>
+
+</div>
+
+
+
+
+
+<div id="mainArea">
+
+	<section>
+		
+		<div class="sectionTitle">
+			<h2>Ideal Job</h2>
+			<h3>Description</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						The job is working with C++ to help work with Wargaming in developing and working on their games, this interested me as I want to work with developing a game and to collaborate with a company is an added bonus. I found this appealing as we would also work of 3D.
+					</p>
+				</article>
+			</div class="sectionContent">
+			
+
+		<div class"sectionTitle">
+			<h3>Skills I Have</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						The skills that I have that can contribute to Being a software engineer would mainly be my experience with python and though I don't have any experience with C++ it can be something I can work on to get there. I have also worked in large groups before and I have experience dealing with some ‘difficult’ people while also contributing to a team and completing the task at hand, I have an interest in working with game design and developing games and have an innate desire to learn new things
+					</p>
+					<p>
+						<li>I have some experience with python but not C++</li>
+						<li>I can work collaboratively in large groups and projects</li>
+						<li>I have an interest in game development and design</li>
+						<li>The desire to learn</li>
+					</p>
+				</article>
+			</div class="sectionContent">
+
+
+		<div class"sectionTitle">
+			<h3>Skills I Need</h3>
+		</div>
+
+			
+			<div class="sectionContent">
+				<article>
+					<p>
+						The skills I would need to learn to be a perfect fit for this job would start at learning C++ and having experience with it and having experience with game development later leading to a Bachelors in computer science, all these are staple to getting this job. Experience with Linux is also  important along with machine learning and 3D algorithms followed by knowledge of TCP/IP, UDP/IP, sockets and network programming
+					</p>
+					<p>
+						<li>I would need to learn C++</li>
+						<li>Experience game development</li>
+						<li>I would need a Bachelor's Degree in Computer Science</li>
+						<li>I need experience with linux</li>
+						<li>I would need to learn machine learning and understant 3D algorithms</li>
+					</p>
+				</article>
+			</div class="sectionContent">
+
+
+		<div class="sectionTitle">
+				<h3>Learning Plan</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						I would start off by finishing this course to have some experience with Game development, then moving onto Introduction to coding to get experience with machine learning and coding in general. After that I would finish the Bachelor of Information Technology at RMIT followed by using linux and enrolling in a course to learn all about game making on C++.
+					</p>
+				</article>
+			</div class="sectionContent">
+
+	</section>
+</div>
+
+
+
+
+
+<div id="mainArea">
+
+	<section>
+		
+		<div class="sectionTitle">
+			<h2>Personal Profile</h2>
+			<h3>Myers Briggs Test</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						What do the results of these tests mean to you?
+					</p>
+					</p>
+						This test result reimagined what I know about myself, it is reassuring knowing that I am not someone I myself don't know. I am surprised at how accurate I think this quiz is, the visuals through the well made website and well designed reference photos really add to the experience of knowing how you are that person.
+					</p>
+					<p>
+						“I wanted to live the life, a different life. I didn’t want to go to the same place every day and see the same people and do the same job. I wanted interesting challenges.” HARRISON FORD
+					</p>
+					<p>
+						How do you think these results may influence your behaviour on a team?
+					</p>
+					<p>
+						I feel more reassured and it helped me look at my strengths and weaknesses through a different perspective. It is a different experience having all your strengths and weaknesses written in front of you by someone else, It makes me feel more understood and it showed me how I could really make an impact on any team with my given skill sets.
+					</p>
+					<p>
+						How should you take this into account when forming a team?
+					</p>
+					<p>
+						As a Virtuoso I can offer any team my creativity, I would help my team in any way possible, I can be flexible and a great social worker, I would offer every ounce of strength and time for a team but I sometimes need someone to put me in check as I get sidetracked easily, I would form a team of people who can cover each other's weaknesses and whom strengths we can use but anyone is welcome too.
+					</p>
+				</article>
+			</div class="sectionContent">
+
+
+		<div class="sectionTitle">
+			<h3>Online Learning Style Test</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=5&V=4&T=11
+					</p>
+					<p>
+						What do the results of these tests mean to you?
+					</p>
+					<p>
+						The results of this test tells me that I am a tactile learner, I enjoy learning new things by touching and doing while taking frequent breaks. The test tells me that I love physical activity and have trouble sitting still while tinkering with things. I found that this test was accurate too but while not as accurate as the other tests it told me things that the other tests didn't tell me like athletic ability.
+					</p>
+					<p>
+						How do you think these results may influence your behaviour on a team?
+					</p>
+					<p>
+						I may be more of a hard worker while also taking many tests to break away from work and society. I will probably be away most days doing outdoor activities and staying with close friends, but I will always make time for work and keep things on task.
+					</p>
+					<p>
+						How should you take this into account when forming a team?
+					</p>
+					<p>
+						I would choose a team that can work with a person like me or join a team that can benefit from my available skillset like people who are leaders, or can spend a lot of time working while I cant but I am not too picky and I am happy to join any team as long as we all stay within good terms of each other.
+					</p>
+				</article>
+			<div class="sectionContent">
+
+
+		<div class="sectionTitle">
+			<h3>Creativity Test</h3>
+		</div>
+
+
+			<div class="sectionContent">
+				<article>
+					<p>
+						What do the results of these tests mean to you?
+					</p>
+					<p>
+						In this test I am on the brink of unlocking my creative mind, To me this means that i would be a good team worker as i have something to give a team and to help any team and it’s team members making me a good teammate.
+					</p>
+					<p>
+						How should you take this into account when forming a team?
+					</p>
+					<p>
+						I would do my part in any team and would be a social worker, I would do my best for a team and would make sure to have fun too, although I do some difficulty concentrating I would split my time between rest and work so I can get the most done while also taking time off. I would make a team that fits together and works together while also covering each other weaknesses and working with strengths.
+					</p>
+				</article>
+			<div class="sectionContent">
+
+
+
+
+	</section>
+
+
+</div>
